@@ -27,11 +27,17 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 Navigate through LIRI options using the UP and DOWN arrow keys.
 
 CTRL/COMMAND + C at any time to exit LIRI.
-
+===============
 Select from:
 EDM Hangman - 100 electronic artists for you to guess!
+---------------
 Twitter - See my latest tweets.
+---------------
 Spotify - Look up any song in the Spotify catalogue and get a link to listen to a preview.
+---------------
 Movies - Search any movie to get it's information. It's like magic!
+---------------
 Read File - Ohhh, what's this do I wonder?
+---------------
 Weather - Get the weather for any city in the world. Is it always so hot in Tokyo?
+---------------
